@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "lens.l.google.com"
+      ]
+    }
+  ],
+  "version": 2
+}
