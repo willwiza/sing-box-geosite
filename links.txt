@@ -17,3 +17,4 @@ https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/talkatone.tx
 https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/apple-gps.txt
 https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/googlevoice.txt
 https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/owndirect.txt
+https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/ownforeign.txt
