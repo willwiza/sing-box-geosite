@@ -15,3 +15,4 @@ https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
 https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/uk-wificalling.txt
 https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/talkatone.txt
 https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/apple-gps.txt
+https://raw.githubusercontent.com/willwiza/rule-txt/refs/heads/main/googlevoice.txt
