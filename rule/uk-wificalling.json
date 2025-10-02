@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "entsrv-uk.vodafone.com",
+        "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org",
+        "epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+        "ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org",
+        "ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+        "vfgb.idemia.io",
+        "vm.talkatone.com",
+        "vuk-gto.prod.ondemandconnectivity.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "148.252.188.96",
+        "17.188.169.153",
+        "46.68.0.0/7",
+        "87.194.0.0/16",
+        "88.82.0.0/19"
+      ]
+    }
+  ],
+  "version": 2
+}
